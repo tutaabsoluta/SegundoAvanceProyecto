@@ -45,6 +45,7 @@ public class MenuUsuario {
 
                         int seleccion = input.nextInt();
                         switch (seleccion) {
+                            //Caso 1: seleccionar un espacio del parqueo
                             case 1:
                                 metodos.seleccionarEspacio();
                                 break;
