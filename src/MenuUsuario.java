@@ -49,6 +49,7 @@ public class MenuUsuario {
                             case 1:
                                 metodos.seleccionarEspacio();
                                 break;
+                            //Caso 2: seleccionar un tipo de vehiculo
                             case 2:
                                 metodos.ingresoVehiculo();
                                 break;
